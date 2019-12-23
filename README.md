@@ -5,3 +5,9 @@ The main purpose of the project is to use GIT and GitHub to collaborate within a
 - Muyembe Muchanga
 - Kaseke F Chinyemba
 
+## Project Contents
+[GIT, Docker, PowerShell, and Bash Commands Reference Guide](https://github.com/kasekec/GitFlow-Process-with-GIT-and-Github)
+
+[Containerization Vs Virtualization Blog Post](https://github.com/kasekec/Containerization-Vs-Virtualization)
+
+[Step-by-Step Tutorial - Gitflow Process with GIT and Github for Collaboration](https://github.com/kasekec/GitFlow-Process-with-GIT-and-Github)
